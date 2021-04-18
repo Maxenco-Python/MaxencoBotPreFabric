@@ -2,7 +2,7 @@
 
 FRANCAIS
 
-Ce bot est un bot pré-fabriqué c'est à dire que lez commandes sont déjà faites. Il manque plus qu'a mettre le token d'un bot que vous avez créer.
+Ce bot est un bot pré-fabriqué c'est à dire que les commandes sont déjà faites. Il manque plus qu'a mettre le token d'un bot que vous avez créer.
 -----
 Pour créer un bot, rendez vous sur "https://discord.com/developers/applications" , cliquez sur "New Applicaton" puis allez dans "Bot" puis "Add Bot". Donnez lui un nom et allez dans OAuth2, cochez la case "bot" et un peut en bas cochez la case "Administrator" et copiez le lien un peu en haut et collez le sur votre navigateur. Une fenêtre va s'ouvrir et il faudra prendre le serveur de votre choix. Ensuite retournez sur le site, allez dans "bot" et cliquez sur "Copy".
 -----
